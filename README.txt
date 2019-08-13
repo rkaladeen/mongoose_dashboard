@@ -1,0 +1,1 @@
+This assignment was conducted to explore building an Express Application with MongoDB and EJS templating engine. The main purpose was to practice development utilizing the MVC architectural pattern.
